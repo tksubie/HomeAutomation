@@ -1,0 +1,16 @@
+------------------------------
+Home information as follows:
+
+Name: tk
+Address: tk
+Date: December/16/twenty
+Time: twenty
+------------------------------
+You have turned the lights *Off* in the Home.
+------------------------------
+Robot Vaccum is Offline.------------------------------
+Security System is Offline.------------------------------
+The temperature set for the smart thermostat is, Daytime: *1 Degrees* and Evening: *1 Degrees*.
+------------------------------
+The Television is turned off.------------------------------
+
